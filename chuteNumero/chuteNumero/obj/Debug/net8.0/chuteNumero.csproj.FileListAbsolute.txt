@@ -1,0 +1,14 @@
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\bin\Debug\net8.0\chuteNumero.exe
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\bin\Debug\net8.0\chuteNumero.deps.json
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\bin\Debug\net8.0\chuteNumero.runtimeconfig.json
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\bin\Debug\net8.0\chuteNumero.dll
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\bin\Debug\net8.0\chuteNumero.pdb
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.AssemblyInfoInputs.cache
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.AssemblyInfo.cs
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.csproj.CoreCompileInputs.cache
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.dll
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\refint\chuteNumero.dll
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.pdb
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\chuteNumero.genruntimeconfig.cache
+C:\Users\feito\source\repos\chuteNumero\chuteNumero\obj\Debug\net8.0\ref\chuteNumero.dll
